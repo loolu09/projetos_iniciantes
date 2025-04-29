@@ -24,4 +24,4 @@ elif shape == 4:
     area = math.pi * (radius ** 2)
     print(f'Radius:{radius}\nThe area is {area}')
 else: 
-    print('teste')
+    print('Quit')
